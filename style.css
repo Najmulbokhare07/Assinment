@@ -48,6 +48,39 @@ body {
     color: gray;
 }
 
-#fontbig {
+.fontbig {
     font-size: 3em;
+}
+
+.huminity {
+    text-align: center;
+    padding: 80px 280px;
+
+}
+
+
+
+.plane-a {
+    width: 250px;
+    background-color: gray;
+    padding: 50px;
+    margin: 20px;
+}
+
+.plane-b {
+    width: 250px;
+    background-color: rgb(0, 90, 128);
+    padding: 50px;
+    margin: 20px;
+}
+
+.plane-c {
+    width: 250px;
+    background-color: yellow;
+    padding: 50px;
+    margin: 20px;
+}
+
+.planeall {
+    display: flex;
 }
