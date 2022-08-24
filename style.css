@@ -15,7 +15,7 @@ body {
     font-size: 5em;
 }
 
-p {
+#letterwhite {
     color: white;
 }
 
@@ -27,4 +27,27 @@ p {
     font-weight: 700;
     border-radius: 7px;
 
+}
+
+.box {
+
+    text-align: center;
+    padding: 80px 240px;
+}
+
+.allbox {
+    display: flex;
+
+}
+
+.tk {
+    width: 50%;
+    margin-left: 15px;
+    padding: 30px;
+    background-color: whitesmoke;
+    color: gray;
+}
+
+#fontbig {
+    font-size: 3em;
 }
